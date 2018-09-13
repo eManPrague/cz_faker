@@ -1,0 +1,184 @@
+new_regions:
+  - code: A
+    region: Praha
+  - code: B
+    region: Jihomoravský kraj (Brno)
+  - code: C
+    region: Jihočeský kraj (České Budějovice)
+  - code: E
+    region: Pardubický kraj
+  - code: H
+    region: Královéhradecký kraj
+  - code: J
+    region: Kraj Vysočina (Jihlava)
+  - code: K
+    region: Karlovarský kraj
+  - code: L
+    region: Liberecký kraj
+  - code: M
+    region: Olomoucký kraj
+  - code: P
+    region: Plzeňský kraj
+  - code: S
+    region: Středočeský kraj
+  - code: T
+    region: Moravskoslezský kraj (Ostrava)
+  - code: U
+    region: Ústecký kraj
+  - code: Z
+    region: Zlínský kraj
+old_regions:
+  - code: A
+    region: Praha
+  - code: BE
+    region: Beroun
+  - code: [ BI, BO ]
+    region: Brno - venkov
+  - code: BK
+    region: Blansko
+  - code: [ BM, BS, BZ ]
+    region: Brno - město
+  - code: BN
+    region: Benešov
+  - code: BR
+    region: Bruntál
+  - code: BV
+    region: Břeclav
+  - code: [ CB, CE ]
+    region: České Budějovice
+  - code: CH
+    region: Cheb
+  - code: CK
+    region: Český Krumlov
+  - code: CL
+    region: Česká Lípa
+  - code: CR
+    region: Chrudim
+  - code: CV
+    region: Chomutov
+  - code: DC
+    region: Děčín
+  - code: DO
+    region: Domažlice
+  - code: [ FI, FM ]
+    region: Frýdek-Místek
+  - code: HB
+    region: Havlíčkův Brod
+  - code: [ HK, HR ]
+    region: Hradec Králové
+  - code: HO
+    region: Hodonín
+  - code: JC
+    region: Jičín
+  - code: JE
+    region: Jeseník
+  - code: JH
+    region: Jindřichův Hradec
+  - code: JI
+    region: Jihlava
+  - code: JN
+    region: Jablonec nad Nisou
+  - code: [ KA, KI ]
+    region: Karviná
+  - code: [ KD, KL ]
+    region: Kladno
+  - code: KH
+    region: Kutná Hora
+  - code: KM
+    region: Kroměříž
+  - code: KO
+    region: Kolín
+  - code: [ KR, KV ]
+    region: Karlovy Vary
+  - code: KT
+    region: Klatovy
+  - code: [ LB, LI ]
+    region: Liberec
+  - code: LN
+    region: Louny
+  - code: LT
+    region: Litoměřice
+  - code: MB
+    region: Mladá Boleslav
+  - code: ME
+    region: Mělník
+  - code: MO
+    region: Most
+  - code: NA
+    region: Náchod
+  - code: NB
+    region: Nymburk
+  - code: NJ
+    region: Nový Jičín
+  - code: [ OC, OL, OM ]
+    region: Olomouc
+  - code: OP
+    region: Opava
+  - code: [ OS, OT, OV ]
+    region: Ostrava
+  - code: [ PA, PU ]
+    region: Pardubice
+  - code: PB
+    region: Příbram
+  - code: [ PC, PZ ]
+    region: Praha - západ
+  - code: PE
+    region: Pelhřimov
+  - code: [ PH, PY ]
+    region: Praha - východ
+  - code: PI
+    region: Písek
+  - code: PJ
+    region: Plzeň - jih
+  - code: [ PM, PN ]
+    region: Plzeň - město
+  - code: PR
+    region: Přerov
+  - code: PS
+    region: Plzeň - sever
+  - code: PT
+    region: Prachatice
+  - code: PV
+    region: Prostějov
+  - code: RA
+    region: Rakovník
+  - code: RK
+    region: Rychnov nad Kněžnou
+  - code: RO
+    region: Rokycany
+  - code: SM
+    region: Semily
+  - code: SO
+    region: Sokolov
+  - code: ST
+    region: Strakonice
+  - code: SU
+    region: Šumperk
+  - code: SY
+    region: Svitavy
+  - code: TA
+    region: Tábor
+  - code: TC
+    region: Tachov
+  - code: TP
+    region: Teplice
+  - code: TR
+    region: Třebíč
+  - code: TU
+    region: Trutnov
+  - code: UH
+    region: Uherské Hradiště
+  - code: [ UL, US ]
+    region: Ústí nad Labem
+  - code: UO
+    region: Ústí nad Orlicí
+  - code: VS
+    region: Vsetín
+  - code: VY
+    region: Vyškov
+  - code: [ ZL, GT ]
+    region: Zlín (dříve Gottwaldov)
+  - code: ZN
+    region: Znojmo
+  - code: ZR
+    region: žďár nad Sázavou

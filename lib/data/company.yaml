@@ -1,0 +1,223 @@
+  legal_forms:
+  - code: 100
+    name: Podnikající osoba tuzemská
+  - code: 101
+    name: Fyzická osoba podnikající dle živnostenského zákona nezapsaná v obchodním rejstříku
+  - code: 102
+    name: Fyzická osoba podnikající dle živnostenského zákona zapsaná v obchodním rejstříku
+  - code: 104
+    name: Samostatně hospodařící rolník zapsaný v obchodním rejstříku
+  - code: 105
+    name: Fyzická osoba podnikající dle jiných zákonů než živnostenského a zákona o zemědělství nezapsaná v obchodním rejstříku
+  - code: 106
+    name: Fyzická osoba podnikající dle jiných zákonů než živnostenského a zákona o zemědělství zapsaná v obchodním rejstříku
+  - code: 107
+    name: Zemědělský podnikatel - fyzická osoba nezapsaná v obchodním rejstříku
+  - code: 108
+    name: Zemědělský podnikatel - fyzická osoba zapsaná v obchodním rejstříku
+  - code: 111
+    short: 'v.o.s.'
+    name: Veřejná obchodní společnost
+  - code: 112
+    short: 's.r.o.'
+    name: Společnost s ručením omezeným
+  - code: 113
+    name: Společnost komanditní
+  - code: 115
+    short: 'k.s.'
+    name: Společný podnik
+  - code: 116
+    name: Zájmové sdružení
+  - code: 117
+    name: Nadace
+  - code: 118
+    name: Nadační fond
+  - code: 121
+    short: 'a.s.'
+    name: Akciová společnost
+  - code: 141
+    short: 'o.p.s.'
+    name: Obecně prospěšná společnost
+  - code: 145
+    short: 'SVJ'
+    name: Společenství vlastníků jednotek
+  - code: 151
+    name: Komoditní burza
+  - code: 152
+    name: Garanční fond obchodníků s cennými papíry
+  - code: 161
+    name: Ústav
+  - code: 201
+    name: Zemědělské družstvo
+  - code: 205
+    name: Družstvo
+  - code: 231
+    name: Výrobní družstvo
+  - code: 232
+    name: Spotřební družstvo
+  - code: 233
+    name: Bytové družstvo
+  - code: 234
+    name: Jiné družstvo
+  - code: 241
+    name: Družstevní podnik (s jedním zakladatelem)
+  - code: 242
+    name: Společný podnik (s více zakladateli)
+  - code: 251
+    name: Zájmová organizace družstev
+  - code: 261
+    name: Společná zájmová organizace družstev
+  - code: 301
+    short: 's.p.'
+    name: Státní podnik
+  - code: 302
+    short: 'n.p.'
+    name: Národní podnik
+  - code: 312
+    name: Banka-státní peněžní ústav
+  - code: 313
+    name: Česká národní banka
+  - code: 314
+    name: Česká konsolidační agentura
+  - code: 325
+    name: Organizační složka státu
+  - code: 331
+    name: Příspěvková organizace
+  - code: 332
+    name: Státní příspěvková organizace
+  - code: 352
+    name: Správa železniční dopravní cesty, státní organizace
+  - code: 353
+    name: Rada pro veřejný dohled nad auditem
+  - code: 361
+    name: Veřejnoprávní instituce (ČT,ČRo,ČTK)
+  - code: 362
+    name: Česká tisková kancelář
+  - code: 381
+    name: Fond (ze zákona)
+  - code: 382
+    name: Státní fond ze zákona
+  - code: 391
+    name: Zdravotní pojišťovna
+  - code: 401
+    name: Sdružení mezinárodního obchodu
+  - code: 411
+    name: Podnik se zahraniční majetkovou účastí
+  - code: 421
+    name: Odštěpný závod zahraniční právnické osoby
+  - code: 422
+    name: Organizační složka zahraničního nadačního fondu
+  - code: 423
+    name: Organizační složka zahraniční nadace
+  - code: 424
+    name: Zahraniční
+  - code: 425
+    name: Odštěpný závod zahraniční fyzické osoby
+  - code: 426
+    name: Zastoupení zahraniční banky
+  - code: 441
+    name: Podnik zahraničního obchodu
+  - code: 501
+    name: Odštěpný závod nebo jiná organizační složka podniku zapisující se do obchodního rejstříku
+  - code: 521
+    name: Samostatná drobná provozovna obecního úřadu
+  - code: 525
+    name: Vnitřní organizační jednotka organizační složky státu
+  - code: 541
+    name: Podílový fond
+  - code: 601
+    name: Vysoká škola
+  - code: 641
+    name: Školská právnická osoba
+  - code: 651
+    name: Zdravotnické zařízení
+  - code: 661
+    name: Veřejná výzkumná instituce
+  - code: 671
+    name: Veřejné neziskové ústavní zdravotnické zařízení
+  - code: 701
+    name: Sdružení (svaz, spolek, společnost, klub aj.)
+  - code: 703
+    name: Odborová organizace a organizace zaměstnavatelů
+  - code: 704
+    name: Zvláštní organizace pro zastoupení českých zájmů v mezinárodních nevládních organizacích
+  - code: 705
+    name: Podnik nebo hospodářské zařízení sdružení
+  - code: 706
+    name: Spolek
+  - code: 707
+    name: Odborová organizace
+  - code: 708
+    name: Organizace zaměstnavatelů
+  - code: 711
+    name: Politická strana, politické hnutí
+  - code: 715
+    name: Podnik nebo hospodářské zařízení politické strany
+  - code: 721
+    name: Církevní organizace
+  - code: 722
+    name: Evidované církevní právnické osoby
+  - code: 723
+    name: Svazy církví a náboženských společností
+  - code: 731
+    name: Organizační jednotka sdružení
+  - code: 732
+    name: Organizační jednotka politické strany, politického hnutí
+  - code: 733
+    name: Organizační jednotka odborové organizace a organizace zaměstnavatelů
+  - code: 736
+    name: Pobočný spolek
+  - code: 741
+    name: Stavovská organizace - profesní komora
+  - code: 745
+    name: Komora (s výjimkou profesních komor)
+  - code: 751
+    name: Zájmové sdružení právnických osob
+  - code: 761
+    name: Honební společenstvo
+  - code: 771
+    name: Svazek obcí
+  - code: 801
+    name: Obec nebo městská část hlavního města Prahy
+  - code: 804
+    name: Kraj
+  - code: 805
+    name: Regionální rada regionu soudržnosti
+  - code: 811
+    name: Městská část, městský obvod
+  - code: 901
+    name: Zastupitelský orgán jiných států
+  - code: 906
+    name: Zahraniční spolek
+  - code: 907
+    name: Mezinárodní odborová organizace
+  - code: 908
+    name: Mezinárodní organizace zaměstnavatelů
+  - code: 911
+    name: Zahraniční kulturní, informační středisko, rozhlasová, tisková a televizní agentura
+  - code: 921
+    name: Mezinárodní organizace a sdružení
+  - code: 922
+    name: Organizační jednotka organizace s mezinárodním prvkem
+  - code: 931
+    name: Evropské hospodářské zájmové sdružení
+  - code: 932
+    name: Evropská společnost
+  - code: 933
+    name: Evropská družstevní společnost
+  - code: 936
+    name: Zahraniční pobočný spolek
+  - code: 937
+    name: Pobočná mezinárodní odborová organizace
+  - code: 938
+    name: Pobočná mezinárodní organizace zaměstnavatelů
+  - code: 941
+    name: Evropské seskupení pro územní spolupráci
+  - code: 950
+    name: Subjekt právním řádem výslovně neupravený
+  - code: 960
+    name: Právnická osoba zřízená zvláštním zákonem zapisovaná do veřejného rejstříku
+  - code: 961
+    name: Svěřenský fond
+  - code: 962
+    name: Zahraniční svěřenský fond

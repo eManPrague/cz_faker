@@ -1,0 +1,328 @@
+banks:
+  - code: "3050"
+    name: BNP Paribas Personal Finance SA, odštěpný závod
+    swift: BPPFCZP1
+  - code: "2200"
+    name: Peněžní dům, spořitelní družstvo
+    swift: ""
+  - code: "3060"
+    name: PKO BP S.A., Czech Branch
+    swift: BPKOCZPP
+  - code: "8220"
+    name: Payment Execution s.r.o.
+    swift: PAERCZP1
+  - code: "8230"
+    name: EEPAYS s.r.o.
+    swift: EEPSCZPP
+  - code: "0300"
+    name: Československá obchodní banka, a.s.
+    swift: ""
+  - code: "6000"
+    name: PPF banka a.s.
+    swift: ""
+  - code: "8250"
+    name: Bank of China (Hungary) Close Ltd. Prague branch, odštěpný závod
+    swift: BKCHCZPP
+  - code: "6200"
+    name: COMMERZBANK AG, pobočka Praha
+    swift: ""
+  - code: "6300"
+    name: BNP Paribas Fortis SA/NV, pobočka Česká republika
+    swift: GEBACZPP
+  - code: "6700"
+    name: Všeobecná úverová banka a.s., pobočka Praha
+    swift: ""
+  - code: "6800"
+    name: Sberbank CZ, a.s.
+    swift: VBOECZ2X
+  - code: "2060"
+    name: Citfin, spořitelní družstvo
+    swift: CITFCZPP
+  - code: "2070"
+    name: Moravský Peněžní Ústav - spořitelní družstvo
+    swift: MPUBCZPP
+  - code: "5400"
+    name: ABN AMRO Bank N.V.
+    swift: ""
+  - code: "3030"
+    name: Air Bank a. s.
+    swift: ""
+  - code: "5500"
+    name: Raiffeisenbank a.s.
+    swift: ""
+  - code: "5800"
+    name: J & T Banka, a.s.
+    swift: ""
+  - code: "0700"
+    name: Česká národní banka
+    swift: ""
+  - code: "7910"
+    name: Deutsche Bank A.G. Filiale Prag
+    swift: ""
+  - code: "0710"
+    name: Česká národní banka
+    swift: CNBACZPP
+  - code: "7940"
+    name: Waldviertler Sparkasse von 1842 AG
+    swift: ""
+  - code: "7950"
+    name: Raiffeisen stavební spořitelna a.s.
+    swift: ""
+  - code: "7960"
+    name: Českomoravská stavební spořitelna, a.s.
+    swift: ""
+  - code: "7970"
+    name: Wüstenrot-stavební spořitelna a.s.
+    swift: ""
+  - code: "7980"
+    name: Wüstenrot hypoteční banka a.s.
+    swift: ""
+  - code: "7990"
+    name: Modrá pyramida stavební spořitelna, a.s.
+    swift: ""
+  - code: "8030"
+    name: Raiffeisenbank im Stiftland eG pobočka Cheb, odštěpný závod
+    swift: ""
+  - code: "0800"
+    name: Česká spořitelna, a.s.
+    swift: GIBACZPX
+  - code: "0700"
+    name: Česká národní banka
+    swift: ""
+  - code: "5000"
+    name: Crédit Agricole Corporate and Investment BankS.A. Prague, organizační složka
+    swift: ""
+  - code: "8200"
+    name: PRIVAT BANK AG der Raiffeisenlandesbank Oberösterreich v ČR
+    swift: ""
+  - code: "8040"
+    name: Oberbank AG pobočka Česká republika
+    swift: ""
+  - code: "8060"
+    name: Stavební spořitelna České spořitelny, a.s.
+    swift: ""
+  - code: "8090"
+    name: Česká exportní banka, a.s.
+    swift: ""
+  - code: "8150"
+    name: HSBC Bank plc - pobočka Praha
+    swift: ""
+  - code: "0100"
+    name: Komerční banka, a.s.
+    swift: KOMBCZPP
+  - code: "2600"
+    name: Citibank Europe plc, organizační složka
+    swift: CITICZPX
+  - code: "0730"
+    name: Česká národní banka - zúčtovací centrum
+    swift: CNBACC
+  - code: "2040"
+    name: UNIBON - spořitelní a úvěrní družstvo
+    swift: ""
+  - code: "2050"
+    name: WPB Capital, spořitelní družstvo
+    swift: ""
+  - code: "2060"
+    name: Citfin, spořitelní družstvo
+    swift: ""
+  - code: "2070"
+    name: Moravský Peněžní Ústav - spořitelní družstvo
+    swift: ""
+  - code: "2200"
+    name: Peněžní dům, spořitelní družstvo
+    swift: ""
+  - code: "8200"
+    name: PRIVAT BANK AG der Raiffeisenlandesbank Oberösterreich v ČR
+    swift: ""
+  - code: "2210"
+    name: Evropsko-ruská banka, a.s.
+    swift: ""
+  - code: "2230"
+    name: AXA Bank Europe, organizační složka
+    swift: ""
+  - code: "2240"
+    name: Poštová banka, a.s.
+    swift: ""
+  - code: "2220"
+    name: Artesa, spořitelní družstvo
+    swift: ""
+  - code: "2250"
+    name: Banka CREDITAS a.s.
+    swift: CTASCZ22
+  - code: "2000"
+    name: Kreditní banka Plzeň, a.s. - v likvidaci
+    swift: ""
+  - code: "0800"
+    name: Česká spořitelna, a.s.
+    swift: ""
+  - code: "2010"
+    name: Fio banka, a.s.
+    swift: FIOBCZPP
+  - code: "2100"
+    name: Hypoteční banka, a.s.
+    swift: ""
+  - code: "8265"
+    name: Industrial and Commercial Bank of China Limited Prague Branch, odštěpný závod
+    swift: ICBK CZ PP
+  - code: "2275"
+    name: Podnikatelská družstevní záložna
+    swift: null
+  - code: "2210"
+    name: Evropsko-ruská banka, a.s.
+    swift: FICHCZPP
+  - code: "0000"
+    name: Neznámá banka GE
+    swift: ""
+  - code: "3060"
+    name: PKO BP S.A., Czech Branch
+    swift: BPKOCZPP
+  - code: "2260"
+    name: ANO spořitelní družstvo
+    swift: null
+  - code: "6700"
+    name: Všeobecná úverová banka a.s., pobočka Praha
+    swift: SUBACZPP
+  - code: "7910"
+    name: Deutsche Bank A.G. Filiale Prag
+    swift: DEUTCZPX
+  - code: "7940"
+    name: Waldviertler Sparkasse von 1842 AG
+    swift: SPWTCZ21
+  - code: "7950"
+    name: Raiffeisen stavební spořitelna a.s.
+    swift: ""
+  - code: "7960"
+    name: Českomoravská stavební spořitelna, a.s.
+    swift: ""
+  - code: "7970"
+    name: Wüstenrot-stavební spořitelna a.s.
+    swift: ""
+  - code: "7990"
+    name: Modrá pyramida stavební spořitelna, a.s.
+    swift: ""
+  - code: "8030"
+    name: Raiffeisenbank im Stiftland eG pobočka Cheb, odštěpný závod
+    swift: GENOCZ21
+  - code: "8040"
+    name: Oberbank AG pobočka Česká republika
+    swift: OBKLCZ2X
+  - code: "8060"
+    name: Stavební spořitelna České spořitelny, a.s.
+    swift: ""
+  - code: "8090"
+    name: Česká exportní banka, a.s.
+    swift: CZEECZPP
+  - code: "8260"
+    name: PAYMASTER a.s.
+    swift: null
+  - code: "8270"
+    name: Fairplay Pay s.r.o.
+    swift: null
+  - code: "7980"
+    name: Wüstenrot hypoteční banka a.s.
+    swift: ""
+  - code: "2040"
+    name: UNIBON - spořitelní a úvěrní družstvo
+    swift: ""
+  - code: "2050"
+    name: WPB Capital, spořitelní družstvo
+    swift: ""
+  - code: "8150"
+    name: HSBC Bank plc - pobočka Praha
+    swift: MIDLCZPP
+  - code: "4000"
+    name: Expobank CZ a.s.
+    swift: EXPNCZPP
+  - code: "2310"
+    name: ZUNO BANK AG
+    swift: ZUNOCZPP
+  - code: "2010"
+    name: Fio banka, a.s.
+    swift: FIOBCZPP
+  - code: "2100"
+    name: Hypoteční banka, a.s.
+    swift: ""
+  - code: "6800"
+    name: Sberbank CZ, a.s.
+    swift: VBOECZ2X
+  - code: "0300"
+    name: Československá obchodní banka, a.s.
+    swift: CEKOCZPP
+  - code: "5400"
+    name: ABN AMRO Bank N.V.
+    swift: ABNACZPP
+  - code: "5500"
+    name: Raiffeisenbank a.s.
+    swift: RZBCCZPP
+  - code: "5800"
+    name: J & T Banka, a.s.
+    swift: JTBPCZPP
+  - code: "6000"
+    name: PPF banka a.s.
+    swift: PMBPCZPP
+  - code: "6100"
+    name: Equa bank, a.s.
+    swift: EQBKCZPP
+  - code: "6200"
+    name: COMMERZBANK AG, pobočka Praha
+    swift: COBACZPX
+  - code: "6300"
+    name: BNP Paribas Fortis SA/NV, pobočka Česká republika
+    swift: GEBACZPP
+  - code: "2230"
+    name: AXA Bank Europe, organizační složka
+    swift: ""
+  - code: "2240"
+    name: Poštová banka, a.s.
+    swift: POBNCZPP
+  - code: "2220"
+    name: Artesa, spořitelní družstvo
+    swift: ARTTCZPP
+  - code: "2250"
+    name: Banka CREDITAS a.s.
+    swift: CTASCZ22
+  - code: "2000"
+    name: Kreditní banka Plzeň, a.s. - v likvidaci
+    swift: ""
+  - code: "3030"
+    name: Air Bank a. s.
+    swift: AIRACZPP
+  - code: "SIPO"
+    name: Česká pošta, s. p.
+    swift: ""
+  - code: "6210"
+    name: mBank S.A., organizační složka
+    swift: BREXCZPP
+  - code: "2020"
+    name: MUFG Bank (Europe) N.V. Prague Branch
+    swift: BOTKCZPP
+  - code: "2030"
+    name: AKCENTA, spořitelní a úvěrní družstvo
+    swift: ""
+  - code: "SIPO"
+    name: Česká pošta, s. p.
+    swift: ""
+  - code: "0600"
+    name: MONETA Money Bank, a. s.
+    swift: ""
+  - code: "6210"
+    name: mBank S.A., organizační složka
+    swift: BREXCZPP
+  - code: "2020"
+    name: MUFG Bank (Europe) N.V. Prague Branch
+    swift: BOTKCZPP
+  - code: "2030"
+    name: AKCENTA, spořitelní a úvěrní družstvo
+    swift: ""
+  - code: "0600"
+    name: GE Money Bank, a.s.
+    swift: AGBACZPP
+  - code: "2700"
+    name: UniCredit Bank Czech Republic, a.s.
+    swift: BACXCZPP
+  - code: "3500"
+    name: ING Bank N.V.
+    swift: INGBCZPP
+  - code: "4300"
+    name: Českomoravská záruční a rozvojová banka, a.s.
+    swift: CMZRCZP1
