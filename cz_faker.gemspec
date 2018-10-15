@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'cz_faker'
-  s.version     = '0.0.3'
-  s.date        = '2018-09-12'
+  s.version     = '0.0.4'
+  s.date        = '2018-10-15'
   s.summary     = "Czech Data Faker"
   s.description = "A simple faker for czech data items"
   s.authors     = ["Jindrich Skupa (@eMan)"]

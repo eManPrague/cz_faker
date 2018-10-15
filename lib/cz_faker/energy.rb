@@ -74,9 +74,9 @@ module CzFaker
       def eic_char_to_int(char)
         if char == '-'
           36
-        elsif char.match?(/\A\d+\z/)
+        elsif char.match(/\A\d+\z/)
           char.to_i
-        elsif char.match?(/\A[A-Za-z]\z/)
+        elsif char.match(/\A[A-Za-z]\z/)
           char.upcase.ord - 'A'.ord + 10
         else
           -1

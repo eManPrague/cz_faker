@@ -29,10 +29,6 @@ module CzFaker
         ["CZ", number.nil? ? ico : number ].join("")
       end
 
-      def cznace
-        "Zemedelstvi"
-      end
-
       def legal_form_name
         load_company['legal_forms'].sample['name']
       end
@@ -41,7 +37,7 @@ module CzFaker
         load_company['legal_forms'].sample['name']
       end
 
-      def legal_form_code
+      def legal_form_short
         while (short = load_company['legal_forms'].sample['short']).nil?
         end
         short

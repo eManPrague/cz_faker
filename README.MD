@@ -130,6 +130,14 @@ bundle install
       def address
 ```      
 
+## CzFaker::Vehicle
+
+```
+      def numberplate
+      def numberplate_old(region = nil)
+      def numberplate_new(region = nil)
+```
+
 ## CzFaker::Validator::Bank
 
 ```
