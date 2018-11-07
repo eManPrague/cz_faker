@@ -1,5 +1,12 @@
 # Czech data faker with validators
 
+## Badges
+
+[![Gem Version](https://badge.fury.io/rb/cz_faker.svg)](https://badge.fury.io/rb/cz_faker)
+[![Build Status](https://travis-ci.org/eManPrague/cz_faker.svg?branch=master)](https://travis-ci.org/eManPrague/cz_faker)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/eManPrague/cz_faker/blob/master/LICENSE)
+[![Documentation](https://img.shields.io/badge/docs-in%20progress-lightgrey.svg)](https://github.com/eManPrague/cz_faker/blob/master/README.MD)
+
 ## Install
 
 ```bash
