@@ -1,4 +1,4 @@
-# Czech faker with validators
+# Czech data faker with validators
 
 ## Install
 
@@ -18,6 +18,77 @@ then run
 bundle install
 ```
 
+## Examples
+
+```ruby
+require 'cz_faker'
+
+> account = CzFaker::Bank.full_account_number
+=> "7768972933/3030"
+
+> CzFaker::Validator::Bank.full_account_number? account
+=> true
+
+> ico = CzFaker::Company.ico
+=> "69611637"
+
+> CzFaker::Validator::Company.ico? ico
+=> true
+
+> ean =  CzFaker::Energy.ean
+=> "859182400433239577"
+
+> CzFaker::Validator::Energy.ean? ean
+=> true
+
+> eic = CzFaker::Energy.eic
+=> "27ZG320V3481361N"
+
+> CzFaker::Validator::Energy.eic? eic
+=> true
+
+> CzFaker::Energy.eic true, nil, 'N'
+=> "27ZG188N2995024C"
+
+> CzFaker::PhoneNumber.cell
+=> "711829784"
+
+> CzFaker::PhoneNumber.land_line
+=> "238521209"
+
+> CzFaker::Name.name
+=> "Lájoš Hympl"
+
+> CzFaker::Name.name :female
+=> "Lizama Nižinská"
+
+> CzFaker::Address.address
+=> "Part. Svobody 23/3, Oprostovice, 25226"
+
+> CzFaker::Vehicle.numberplate_old
+=> "SMP85-92"
+
+> CzFaker::Vehicle.numberplate_new
+=> "1L15873"
+
+> CzFaker::Person.birth_number
+=> "580723/5632"
+
+> CzFaker::Person.birth_number "01.01.1986"
+=> "860101/5247"
+
+> CzFaker::Person.birth_number nil, :female, :false
+=> "185709/2732"
+
+> CzFaker::Bank.credit_card :visa
+=> "4956903229284923"
+
+> CzFaker::Bank.credit_card_formated :maestro
+=> "5020 2490 7191 8328"
+
+> CzFaker::Bank.full_account_number
+=> "5130806494/5800"
+```
 
 ## CzFaker::Date
 
@@ -44,8 +115,8 @@ bundle install
 ## CzFaker::Energy
 
 ```
-      def ean
-      def eic
+      def ean(lds = true, dist_code = nil)
+      def eic(lds = true, dist_code = nil, type = nil)
       def gas_distribution_company
       def electricity_distribution_company
 ```
@@ -107,8 +178,8 @@ bundle install
 
 ```
       def gender
-      def birth_number
-      def marital_status(gender = :random
+      def birth_number(date = nil, gender = :male, slash = true)
+      def marital_status(gender = :random)
       def drivers_license
       def education
       def height
