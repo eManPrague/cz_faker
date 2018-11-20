@@ -104,6 +104,7 @@ require 'cz_faker'
       def numbers_without_dots(year = YEARS)
       def numbers_padded(year = YEARS)
       def words(year = YEARS)
+      def unix_timestamp(now = true)
 ```
 
 ## CzFaker::Name

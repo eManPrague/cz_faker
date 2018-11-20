@@ -1,3 +1,12 @@
+# api-mini-tester (0.0.5) RELEASED
+
+  * Update README and compatibility with older rubies
+  * Update README.MD
+
+Authors
+
+* Jindrich Skupa
+
 # api-mini-tester (0.0.4) RELEASED
 
   * Fix compatibility with older ruby version than 2.4.0

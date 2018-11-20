@@ -17,6 +17,14 @@ module CzFaker
         random_date(year).strftime("%d.%m.%Y")
       end
 
+      def unix_timestamp(now = true)
+        if now
+          Time.now().to_i
+        else
+          Time.parse(random_date).to_i
+        end
+      end
+
       def words(year = YEARS)
         date = random_date(year)
         "#{date.day}. #{MONTHS[date.month - 1]} #{date.year}"
